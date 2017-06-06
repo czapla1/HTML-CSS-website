@@ -1,0 +1,189 @@
+body
+{
+background-color: #333333;
+color:white;
+font-family: 'Lato', sans-serif;
+font-size: 20px;
+}
+
+#container
+{
+width: 1000px;
+margin-left:auto;
+margin-right: auto;	
+}
+
+.rectangle
+{
+	width: 960px;
+	margin:20px;
+	text-align: center;
+	
+}
+
+.square
+{
+	width:50%;
+	float:left;
+}
+
+#logo
+{
+	float:left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 70px;
+	width:600px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align:left;
+	
+}
+
+
+
+.tile1
+{
+	margin:10px;
+	width:230px;
+	height:142px;	
+	background-color: #CC6600;
+	float:left;
+	text-align: center;
+	
+}
+
+.tile1:hover
+{
+	background-color:#BB5500;
+}
+
+.tile2
+{
+	margin:10px;
+	width:230px;
+	height:142px;	
+	background-color: #990033;
+	float:left;
+	text-align: center;
+}
+
+.tile2:hover
+{
+	background-color:#880022;
+}
+
+.tile3
+{
+	margin:10px;
+	width:230px;
+	height:142px;	
+	background-color: #99CC66;
+	float:left;
+	text-align: center;
+}
+
+.tile3:hover
+{
+	background-color:#88BB55;
+}
+
+.quote
+{
+	margin:10px;
+	width:420px;
+	height:82px;	
+	background-color: #0066CC;
+	text-align: center;
+	font-size: 17px;
+	padding:30px;
+	line-height: 150%;
+}
+
+.quote:hover
+{
+	background-color:#0055BB;
+}
+
+.intro
+{
+	margin:10px;
+	width:420px;
+	height:244px;	
+	background-color: #0066CC;
+	text-align: justify;
+	padding:30px;
+}
+
+.intro:hover
+{
+	background-color:#0055BB;
+}
+
+.yt
+{
+	margin:10px;
+	width:105px;
+	height:142px;	
+	background-color: #FF0033;
+	float:left;
+}
+.yt:hover
+{
+	background-color:#EE0022;
+}
+
+.fb
+{
+	margin:10px;
+	width:105px;
+	height:142px;	
+	background-color: #4668b3;
+	float:left;
+}
+
+.fb:hover
+{
+	background-color:#3557a2;
+}
+.github
+{
+	margin:10px;
+	width:105px;
+	height:142px;	
+	background-color: #d95333;
+	float:left;
+}
+
+.github:hover
+{
+	background-color:#b84222;
+}
+.linkedin
+{
+	margin:10px;
+	width:105px;
+	height:142px;	
+	background-color: #3095d3;
+	float:left;
+}
+
+.linkedin:hover
+{
+	background-color:#2084b2;
+}
+a.tilelink
+{
+	color:#ffffff;
+	text-decoration:none;
+	display: block;
+	width:230px;
+	height:142px;	
+}
+
+a.tilelinkhtml5
+{
+	color:#ffffff;
+	text-decoration:none;
+	
+		
+}
